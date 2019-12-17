@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kapil Agrawal"
 title_separator          : "-"
 name                     : &name "Kapil Agrawal"
-description              : &description "Research Fellow"
+description              : &description "Research Fellow @ Microsoft Research India"
 url                      : https://kapilagrawal95.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kapil Agrawal"
   avatar           : "profile.png"
-  bio              : "Research Fellow"
+  bio              : "Research Fellow @ Microsoft Research India"
   location         : "Bengaluru"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=-NbI3UkAAAAJ&hl=en"
@@ -101,12 +101,12 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/kapilagrawal95"
   vine             :
   weibo            :
   xing             :
