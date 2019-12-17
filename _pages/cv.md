@@ -4,7 +4,7 @@ title: "CV"
 permalink: /cv
 author_profile: true
 redirect_from:
-  - http://kapilagrawal95.github.io/files/KapilAgrawal_Research_CV2.pdf
+  - /resume
 ---
 
 {% include base_path %}
