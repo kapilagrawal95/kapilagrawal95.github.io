@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv
+permalink: https://kapilagrawal95.github.io/files/KapilAgrawal_Research_CV2.pdf
 author_profile: true
 redirect_from:
   - /resume
