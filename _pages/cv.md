@@ -1,13 +1,14 @@
 ---
 layout: archive
 title: "CV"
-permalink: https://kapilagrawal95.github.io/files/KapilAgrawal_Research_CV2.pdf
+permalink: /cv
 author_profile: true
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
+Download CV [here](https://kapilagrawal95.github.io/files/KapilAgrawal_Research_CV2.pdf)
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
