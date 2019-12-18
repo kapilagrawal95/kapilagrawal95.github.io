@@ -7,6 +7,4 @@ excerpt: ''
 date: 2017-12-11
 venue: 'Indian Landslide Congress, IIT Bombay'
 paperurl: '[pdf](https://drive.google.com/file/d/1UVte1KR1p6to8VmdCD1k7zrfPpsVJayj/view)'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-Released the landslide data collected from an actual landslide test 
