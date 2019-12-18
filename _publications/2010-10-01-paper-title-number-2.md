@@ -6,5 +6,5 @@ authors: "Kapil Agrawal, Shubham Agrawal, Pratik Chaturvedi, Naresh Mali, Venkat
 excerpt: ''
 date: 2017-12-11
 venue: 'Indian Landslide Congress, IIT Bombay'
-paperurl: '[pdf](https://drive.google.com/file/d/1UVte1KR1p6to8VmdCD1k7zrfPpsVJayj/view)'
+paperurl: '[pdf](https://kapilagrawal95.github.io/file/minute_scale.pdf)'
 ---
