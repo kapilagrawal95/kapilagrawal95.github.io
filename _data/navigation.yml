@@ -2,12 +2,6 @@
 main:
   - title: "Publications"
     url: /publications/  
-
-  - title: "Projects"
-    url: /teaching/    
-        
-  - title: "Blog Posts"
-    url: /year-archive/
     
   - title: "CV"
     url: https://kapilagrawal95.github.io/files/KapilAgrawal_Research_CV2.pdf
