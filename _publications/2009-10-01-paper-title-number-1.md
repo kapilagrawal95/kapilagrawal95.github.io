@@ -1,7 +1,6 @@
 ---
 title: "Modeling Decisions in Collective Risk Social Dilemma Games for Climate Change using Reinforcement Learning."
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
 authors: 'Medha Kumar, Kapil Agrawal, Varun Dutt'
 excerpt: ''
 date: 2019-04-08
