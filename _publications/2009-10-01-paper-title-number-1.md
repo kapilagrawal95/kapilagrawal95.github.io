@@ -5,7 +5,7 @@ authors: 'Medha Kumar, Kapil Agrawal, Varun Dutt'
 excerpt: ''
 date: 2019-04-08
 venue: 'IEEE Conference on Cognitive and Computational Aspects of Situation Management (CogSIMA) 2019'
-paperurl: '[pdf](https://kapilagrawal95.github.io/files/cognitive_risk.pdf)'
+paperurl: '[pdf](https://ieeexplore.ieee.org/document/8724273)'
 ---
 
 
