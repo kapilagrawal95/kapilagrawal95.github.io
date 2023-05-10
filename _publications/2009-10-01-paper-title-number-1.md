@@ -8,4 +8,4 @@ venue: 'IEEE Conference on Cognitive and Computational Aspects of Situation Mana
 paperurl: '[pdf](https://ieeexplore.ieee.org/document/8724273)'
 ---
 
-
+[Link](https://ieeexplore.ieee.org/document/8724273)
