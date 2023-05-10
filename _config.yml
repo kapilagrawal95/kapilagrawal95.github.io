@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kapil Agrawal"
 title_separator          : "-"
 name                     : &name "Kapil Agrawal"
-description              : &description "Research Fellow @ Microsoft Research India"
+description              : &description "CS Ph.D. @ UCI | Research Fellow @ Microsoft Research India"
 url                      : https://kapilagrawal95.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Kapil Agrawal"
   avatar           : "profile.png"
-  bio              : "Research Fellow @ Microsoft Research India"
-  location         : "Bengaluru"
+  bio              : "CS Ph.D. @ UCI | Research Fellow @ Microsoft Research India"
+  location         : "Irvine, CA"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=-NbI3UkAAAAJ&hl=en"
   email            : "kapil.agrawal1995@gmail.com"
@@ -221,7 +221,7 @@ defaults:
       type: publications
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comments: fatruelse
   # _portfolio
