@@ -223,7 +223,7 @@ defaults:
       layout: single
       author_profile: false
       share: true
-      comments: fatruelse
+      comments: false
   # _portfolio
   - scope:
       path: ""
