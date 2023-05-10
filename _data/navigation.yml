@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/  
+  # - title: "Publications"
+  #   url: /publications/  
     
   - title: "CV"
     url: https://kapilagrawal95.github.io/files/KapilAgrawal_Resume.pdf
