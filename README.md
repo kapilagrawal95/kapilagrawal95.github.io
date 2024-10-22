@@ -1,3 +1,1 @@
-#Website
-
-Credits: https://github.com/danyangz/danyangz.github.io
+Website credits: https://github.com/danyangz/danyangz.github.io
